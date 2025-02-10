@@ -1,7 +1,7 @@
 # 💫 About Me:
 ⚡ I am currently studying Software Engineering (BENg) @ University of Westminster<br>🔭
-I enjoy coding in Java, my latest project being a learning management system for a mosque connected to a local MySQL database. 
-I also enjoy web development where I am currently working on learning Node.JS. I also enjoy using React on the frontend, and I am hoping to learn Bootstrap for a group project in the works. 
+I enjoy coding in Java, my latest project being a learning management system for a mosque connected to a local MySQL database. <br>
+I also enjoy web development where I am currently working on learning Node.JS. I also enjoy using React on the frontend, and I am hoping to learn Bootstrap for a group project in the works. <br>
 
 
 ## 🌐 Socials:
