@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ravat</h1>
 <h3 align="center">An aspiring software engineer with aptitude in web development & Java</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0ravat&label=Profile%20views&color=0e75b6&style=flat" alt="m0ravat" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0ravat" alt="m0ravat" /></a> </p>
 
 - 🔭 I’m currently working on [a Mosque Management System](https://github.com/m0ravat/MasjidPro-JavaStack)
